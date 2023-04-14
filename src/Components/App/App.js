@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import React from 'react'
 
 class App extends React.Component {
   render() {
@@ -10,7 +10,7 @@ class App extends React.Component {
     {/* <SearchBar /> */}
     <div class="App-playlist">
       {/* <SearchResults /> */}
-      {/* <Playlist /> */}
+      {/* <Playlist />  */}
     </div>
   </div>
 </div>
